@@ -1,0 +1,6 @@
+c:\users\technologist sp\documents\GitHub\ObjectPractice\ObjectPractice\ObjectPractice\bin\Debug\ObjectPractice.exe.config
+c:\users\technologist sp\documents\GitHub\ObjectPractice\ObjectPractice\ObjectPractice\obj\Debug\ObjectPractice.csprojResolveAssemblyReference.cache
+c:\users\technologist sp\documents\GitHub\ObjectPractice\ObjectPractice\ObjectPractice\bin\Debug\ObjectPractice.exe
+c:\users\technologist sp\documents\GitHub\ObjectPractice\ObjectPractice\ObjectPractice\bin\Debug\ObjectPractice.pdb
+c:\users\technologist sp\documents\GitHub\ObjectPractice\ObjectPractice\ObjectPractice\obj\Debug\ObjectPractice.exe
+c:\users\technologist sp\documents\GitHub\ObjectPractice\ObjectPractice\ObjectPractice\obj\Debug\ObjectPractice.pdb
